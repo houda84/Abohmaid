@@ -1,0 +1,122 @@
+{
+  "PosX1": 0.20575737953186035,
+  "User": "Avi Bajpai",
+  "PosX0": 1.4180259704589844,
+  "PosX3": 6.14448799751699E-6,
+  "PosX2": -0.0011573955416679382,
+  "PosData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 5,
+      "SpringBackAngle": 0.5285287499427795
+    },
+    {
+      "PinAngle": 10,
+      "SpringBackAngle": 4.857114315032959
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 9.740116119384766
+    },
+    {
+      "PinAngle": 20,
+      "SpringBackAngle": 14.592233657836914
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 24.252811431884766
+    },
+    {
+      "PinAngle": 45,
+      "SpringBackAngle": 38.902862548828125
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 53.687538146972656
+    },
+    {
+      "PinAngle": 75,
+      "SpringBackAngle": 68.61614227294922
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 82.7845687866211
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 102.49790954589844
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 121.50062561035156
+    }
+  ],
+  "Machine": "3X3566-GVG",
+  "Bend Head Diameter": 0.125,
+  "Accuracy": "High",
+  "NegData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 5,
+      "SpringBackAngle": 0.7717732191085815
+    },
+    {
+      "PinAngle": 10,
+      "SpringBackAngle": 4.909334182739258
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 9.035863876342773
+    },
+    {
+      "PinAngle": 20,
+      "SpringBackAngle": 14.567570686340332
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 24.252811431884766
+    },
+    {
+      "PinAngle": 45,
+      "SpringBackAngle": 38.95863723754883
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 53.71662521362305
+    },
+    {
+      "PinAngle": 75,
+      "SpringBackAngle": 68.64569091796875
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 83.70453643798828
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 102.49787902832031
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 122.22563171386719
+    }
+  ],
+  "Profile Name": " 1_8in Aluminum",
+  "XContactPos": 0.8740000128746033,
+  "Nice Name": "",
+  "Timestamp": "2014_10_21__13_41_1",
+  "Feed Wheel": "FW-318-01 1/8\"",
+  "NegX0": -8.807876586914062,
+  "NegX1": 0.20693206787109375,
+  "NegX2": 0.0011886060237884521,
+  "Material Name": " 1_8in Aluminum",
+  "NegX3": 6.255490006878972E-6,
+  "Bend Head": "BH-318-01 1/8\"",
+  "XContactNeg": -8.260000228881836
+}

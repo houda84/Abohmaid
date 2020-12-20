@@ -1,0 +1,11 @@
+{
+	"Bend Head List": [
+		{ "Bend Head Name": "BH-318-01 1/8\"", "Diameter": 0.125 },
+		{ "Bend Head Name": "BH-159-01 1/16\"", "Diameter": 0.0625 }
+	],
+
+	"Feed Wheel List": [
+		{ "Feed Wheel Name": "FW-318-01 1/8\"", "Diameter": 0.125 },
+		{ "Feed Wheel Name": "BH-159-01 1/16\"", "Diameter": 0.0625 }
+	]
+}

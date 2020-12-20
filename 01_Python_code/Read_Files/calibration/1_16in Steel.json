@@ -1,0 +1,121 @@
+{
+  "PosX1": 0.13817524909973145,
+  "User": "Chad",
+  "PosX0": 2.1051483154296875,
+  "PosX3": 7.260983693413436E-6,
+  "PosX2": -7.328540086746216E-4,
+  "PosData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 5,
+      "SpringBackAngle": 2.0911154747009277
+    },
+    {
+      "PinAngle": 10,
+      "SpringBackAngle": 6.518741130828857
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 11.095747947692871
+    },
+    {
+      "PinAngle": 20,
+      "SpringBackAngle": 16.475299835205078
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 26.5945987701416
+    },
+    {
+      "PinAngle": 45,
+      "SpringBackAngle": 41.2812614440918
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 55.895225524902344
+    },
+    {
+      "PinAngle": 75,
+      "SpringBackAngle": 69.90039825439453
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 85.25460052490234
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 104.63418579101562
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 123.69755554199219
+    }
+  ],
+  "Bend Head Diameter": 0.0625,
+  "Accuracy": "Standard",
+  "NegData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 5,
+      "SpringBackAngle": 2.3395745754241943
+    },
+    {
+      "PinAngle": 10,
+      "SpringBackAngle": 6.9153666496276855
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 11.815827369689941
+    },
+    {
+      "PinAngle": 20,
+      "SpringBackAngle": 16.475299835205078
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 26.575008392333984
+    },
+    {
+      "PinAngle": 45,
+      "SpringBackAngle": 42.18120574951172
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 56.58296203613281
+    },
+    {
+      "PinAngle": 75,
+      "SpringBackAngle": 70.61371612548828
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 85.87310028076172
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 105.13334655761719
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 123.72340393066406
+    }
+  ],
+  "Profile Name": "1_16in Steel",
+  "XContactPos": 1.8760000467300415,
+  "Nice Name": "",
+  "Timestamp": "2015_3_6__17_0_41",
+  "Feed Wheel": "FW-159-01 1/16\"",
+  "NegX0": -8.431282043457031,
+  "NegX1": 0.13933944702148438,
+  "NegX2": 7.962808012962341E-4,
+  "Material Name": "1_16in Galvanized Steel",
+  "NegX3": 7.708382327109575E-6,
+  "Bend Head": "BH-159-01 1/16\"",
+  "XContactNeg": -8.237000465393066
+}

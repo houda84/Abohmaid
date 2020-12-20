@@ -1,0 +1,122 @@
+{
+  "PosX1": 0.21739506721496582,
+  "User": "Avi Bajpai",
+  "PosX0": 1.4115142822265625,
+  "PosX3": 7.654278306290507E-6,
+  "PosX2": -0.0013959556818008423,
+  "PosData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 5,
+      "SpringBackAngle": 0.5285287499427795
+    },
+    {
+      "PinAngle": 10,
+      "SpringBackAngle": 4.880321502685547
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 8.988234519958496
+    },
+    {
+      "PinAngle": 20,
+      "SpringBackAngle": 13.817278861999512
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 23.485065460205078
+    },
+    {
+      "PinAngle": 45,
+      "SpringBackAngle": 38.0258674621582
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 52.77206802368164
+    },
+    {
+      "PinAngle": 75,
+      "SpringBackAngle": 66.75463104248047
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 80.94031524658203
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 101.63296508789062
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 118.42537689208984
+    }
+  ],
+  "Machine": "3X3566-GVG",
+  "Bend Head Diameter": 0.125,
+  "Accuracy": "High",
+  "NegData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 5,
+      "SpringBackAngle": 0.7944220304489136
+    },
+    {
+      "PinAngle": 10,
+      "SpringBackAngle": 2.730308771133423
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 8.988234519958496
+    },
+    {
+      "PinAngle": 20,
+      "SpringBackAngle": 13.792738914489746
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 23.43312644958496
+    },
+    {
+      "PinAngle": 45,
+      "SpringBackAngle": 38.0258674621582
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 52.80109786987305
+    },
+    {
+      "PinAngle": 75,
+      "SpringBackAngle": 66.78416442871094
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 80.9403076171875
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 101.63296508789062
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 119.19649505615234
+    }
+  ],
+  "Profile Name": " 1_8in Brass",
+  "XContactPos": 0.8740000128746033,
+  "Nice Name": "",
+  "Timestamp": "2014_10_21__13_47_3",
+  "Feed Wheel": "FW-318-01 1/8\"",
+  "NegX0": -9.04848861694336,
+  "NegX1": 0.20906877517700195,
+  "NegX2": 0.0012325197458267212,
+  "Material Name": " 1_8in Brass",
+  "NegX3": 6.712652975693345E-6,
+  "Bend Head": "BH-318-01 1/8\"",
+  "XContactNeg": -8.394000053405762
+}

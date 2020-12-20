@@ -1,0 +1,130 @@
+{
+  "PosX1": 0.33710718154907227,
+  "User": "Todd Brunner",
+  "PosX0": 3.3801307678222656,
+  "PosX3": 2.60361994151026E-5,
+  "PosX2": -0.004264466464519501,
+  "PosData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 0.944567084312439
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 5.164496898651123
+    },
+    {
+      "PinAngle": 40,
+      "SpringBackAngle": 13.10482406616211
+    },
+    {
+      "PinAngle": 50,
+      "SpringBackAngle": 21.437532424926758
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 30.606752395629883
+    },
+    {
+      "PinAngle": 70,
+      "SpringBackAngle": 40.75999450683594
+    },
+    {
+      "PinAngle": 80,
+      "SpringBackAngle": 51.42148971557617
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 62.29587936401367
+    },
+    {
+      "PinAngle": 100,
+      "SpringBackAngle": 72.66239166259766
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 81.52130126953125
+    },
+    {
+      "PinAngle": 120,
+      "SpringBackAngle": 91.26671600341797
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 102.36039733886719
+    }
+  ],
+  "Machine": "3X3566-ZKV",
+  "Accuracy": "Standard",
+  "NegData": [
+    {
+      "PinAngle": 0,
+      "SpringBackAngle": 0
+    },
+    {
+      "PinAngle": 15,
+      "SpringBackAngle": 1.2798759937286377
+    },
+    {
+      "PinAngle": 30,
+      "SpringBackAngle": 8.884856224060059
+    },
+    {
+      "PinAngle": 40,
+      "SpringBackAngle": 16.266664505004883
+    },
+    {
+      "PinAngle": 50,
+      "SpringBackAngle": 24.862756729125977
+    },
+    {
+      "PinAngle": 60,
+      "SpringBackAngle": 34.45548629760742
+    },
+    {
+      "PinAngle": 70,
+      "SpringBackAngle": 44.07212448120117
+    },
+    {
+      "PinAngle": 80,
+      "SpringBackAngle": 54.14594268798828
+    },
+    {
+      "PinAngle": 90,
+      "SpringBackAngle": 64.3106460571289
+    },
+    {
+      "PinAngle": 100,
+      "SpringBackAngle": 74.61608123779297
+    },
+    {
+      "PinAngle": 110,
+      "SpringBackAngle": 83.67813873291016
+    },
+    {
+      "PinAngle": 120,
+      "SpringBackAngle": 93.42154693603516
+    },
+    {
+      "PinAngle": 130,
+      "SpringBackAngle": 103.48605346679688
+    }
+  ],
+  "Profile Name": "1_8in Paper Coated Steel",
+  "XContactPos": 1.159000039100647,
+  "Nice Name": "",
+  "Timestamp": "2014_10_13__21_42_23",
+  "Feed Wheel": "FW-318-01 1/8\"",
+  "NegX0": -9.686256408691406,
+  "NegX1": 0.325650691986084,
+  "NegX2": 0.003919839859008789,
+  "Material Name": "1_8in Paper Coated Steel",
+  "NegX3": 2.377957571297884E-5,
+  "Bend Head": "Custom Paper BH",
+  "Bend Head Diameter": 0.125,
+  "XContactNeg": -7.881999969482422
+}
