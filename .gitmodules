@@ -1,3 +1,6 @@
 [submodule "Diwire_java_v01"]
 	path = Diwire_java_v01
 	url = https://github.com/houda84/Abohmaid
+[submodule "Diwire_mah_v01"]
+	path = Diwire_mah_v01
+	url = https://github.com/houda84/Diwire_mah_v01
