@@ -9,4 +9,4 @@
 - not modular "one application for design, computation and machine control".
 - Java :) ; dose not have enough computational libraries.
 
-- https://github.com/houda84/Diwire_mah_v01/tree/master 
+- Java code : https://github.com/houda84/Diwire_mah_v01/tree/master 
