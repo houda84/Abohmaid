@@ -27,5 +27,10 @@
 - cloud deployment ?
 - IPC websockets ??
 
+Some links:
+
+- http://chilipeppr.com/ "server side fabrication workspaace"
+- https://developer.rhino3d.com/guides/compute/deploy/ "cloud deployment for rhino 3d(design)"
+
 
 Thanks Abohmaid :)
